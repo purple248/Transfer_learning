@@ -1,14 +1,15 @@
 # Transfer Learning with PyTorch
 
 Meet Taz:
-![](image/IMG.JPG)
+![](https://github.com/purple248/Transfer_learning/blob/master/IMG.JPG)
 
 This code is using a well trained net Resnet18 to slove a new classification problem:
 Is there Taz in the picture? or no Taz?
 
-# Why transfer learning?
 
-Because the amount of images data is too small to train a good model from the start + not using GPU,
+Why transfer learning?
+
+Because the amount of images data is too small to train a good model from the start / not using GPU,
 It can be better to use a model that was already trained on lots of data, and use its learned weights that can already detect from simple to complex features.
 
 The main steps in transfer learning:

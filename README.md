@@ -1,7 +1,7 @@
 # Transfer Learning with PyTorch
 
 Meet Taz:
-![](https://github.com/purple248/Transfer_learning/blob/master/IMG.JPG)
+![](https://github.com/purple248/Transfer_learning/blob/master/IMG.jpeg)
 
 This code is using a well trained net Resnet18 to slove a new classification problem:
 Is there Taz in the picture? or no Taz?
